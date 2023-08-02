@@ -1,0 +1,11 @@
+
+{
+	"Id" : "uuid",
+	"date" : "dateTime.Now",
+	"name" : "",
+	"categorie": "",
+        "instruction": "instruction",
+        "input": "input",
+        "output": "output",
+	"src": ""
+}
